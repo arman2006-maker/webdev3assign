@@ -1,6 +1,6 @@
 # Smart Utility Toolkit
 
-Lab Assignment 1 — Web Dev III (Node.js & Express Backend), Unit 1
+Lab Assignment 1 — Web Dev  III (Node.js & Express Backend), Unit 1
 Built using only Node.js core modules: `process`, `http`, `fs`, `crypto`.
 
 ## Folder Structure
